@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clients>
+    <student>
+        <name>Jeremy</name>
+        <index>0</index>
+        <birthDate>1972</birthDate>
+        <balance>350.0</balance>
+    </student>
+    <student>
+        <name>Katelyn</name>
+        <index>511</index>
+        <birthDate>1988</birthDate>
+        <balance>321.0</balance>
+    </student>
+</clients>

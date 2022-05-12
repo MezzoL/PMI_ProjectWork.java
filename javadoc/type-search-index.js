@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"economics","l":"Client"},{"p":"economics","l":"Economics"},{"p":"economics","l":"XmlScanner"}];updateSearchResults();
